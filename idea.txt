@@ -1,0 +1,11 @@
+class asset :
+    attributs :
+    S0 = prix initial
+    r = taux d'intérêt
+    sigma = vol
+
+class option :
+    attributs :
+    méthode :
+        price :
+            input : t = temps 
